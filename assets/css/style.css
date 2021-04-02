@@ -207,5 +207,6 @@ a:focus {
 }
 
 .footer-links a {
-    font-size: .75rem;
+    font-size: .90rem;
+    font-weight: 400 !important;
 }
