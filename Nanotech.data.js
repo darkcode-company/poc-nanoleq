@@ -173,6 +173,6 @@ Module['FS_createPath']('/Nanotech/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 50453142, "filename": "/Nanotech/Content/Paks/Nanotech-HTML5.pak"}], "remote_package_size": 50453142, "package_uuid": "1c498214-7bf5-49c7-a02b-3cc6b647c798"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 50534039, "filename": "/Nanotech/Content/Paks/Nanotech-HTML5.pak"}], "remote_package_size": 50534039, "package_uuid": "eb201d3d-8757-4ac2-a436-345e6abd56b4"});
 
 })();

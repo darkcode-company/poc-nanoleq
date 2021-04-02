@@ -163,6 +163,10 @@ a:focus {
     margin: 100px 0;
 }
 
+.work-area {
+    background-color: #fff;
+}
+
 .heading-title {
     margin-top: 2rem;
 }
@@ -176,4 +180,9 @@ a:focus {
 .work-area p {
     font-size: 1rem;
     line-height: 1.6;
+}
+
+.details-area {
+    margin: 100px 0;
+    background-color: #FBB316;
 }
