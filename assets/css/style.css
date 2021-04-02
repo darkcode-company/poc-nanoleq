@@ -86,17 +86,7 @@ h1 {
             box-shadow: none;
   }
 
-.heading-subtitle {
-    color: #221E1F !important;
-    font-size: 1.2rem;
-    line-height: 2;
-}
 
-.work-area p {
-    font-size: 1rem;
-    line-height: 1.4;
-}
-  
 
 /* NAVIGATION */
 .navbar-dark {
@@ -131,10 +121,18 @@ h1 {
     margin: 100px 0;
 }
 
-h1 {
-    font-size: 12px;
-}
-
 .heading-title {
 
 }
+
+.heading-subtitle {
+    color: #221E1F !important;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.work-area p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+  
