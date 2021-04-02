@@ -86,6 +86,27 @@ h1 {
             box-shadow: none;
   }
 
+.btn-primary {
+    background-color: #FBB316 !important;
+    border-color : #FBB316 !important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #e8a718 !important;
+    border-color: #e8a718 !important;
+  }
+
+.btn-primary:focus, .btn-primary.focus {
+    color: #fff;
+    background-color: #e8a718 !important;
+    border-color: #e8a718 !important;
+    box-shadow: none !important;
+  }
+
+.btn-secondary {
+    background-color: #FBB316 !important;
+}
 
 
 /* NAVIGATION */
