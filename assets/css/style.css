@@ -12,6 +12,9 @@ body {
     line-height: 1.5;
     text-align: left;
 }
+.primary-color {
+    color: #FBB316 !important;
+}
 
 h2,
 h3,
@@ -76,12 +79,23 @@ h1 {
   }
   
   a:hover, a:focus {
-    color: var(--primary-color-2);
+    color: #FBB316;
     text-decoration: none;
     outline: none;
     -webkit-box-shadow: none;
             box-shadow: none;
   }
+
+.heading-subtitle {
+    color: #221E1F !important;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.work-area p {
+    font-size: 1rem;
+    line-height: 1.4;
+}
   
 
 /* NAVIGATION */
