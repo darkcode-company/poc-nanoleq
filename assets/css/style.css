@@ -203,4 +203,5 @@ a:focus {
 
 .footer-area {
     background-color: #221E1F;
+    margin-bottom: 0 !important;
 }
