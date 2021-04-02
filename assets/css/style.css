@@ -206,7 +206,17 @@ a:focus {
     margin-bottom: 0 !important;
 }
 
-.footer-links a {
+.footer-links .nav-link, .footer-links a {
     font-size: .90rem;
-    font-weight: 400 !important;
+    font-weight: lighter;
+}
+
+.footer-area .footer-infos {
+    border-top: 1px solid rgb(251,179,22);
+    width: 100%;
+}
+
+.footer-infos .info-element {
+    padding-left: .25rem;
+    padding-right: .25rem;
 }
