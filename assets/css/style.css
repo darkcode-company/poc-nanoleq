@@ -30,6 +30,11 @@ h6 {
     margin-bottom: 0;
 }
 
+p {
+  font-size: .75rem; 
+  line-height: 1.5;
+}
+
 h1 {
     font-size: 3rem;
     font-weight: var(--h1-weight);
@@ -140,6 +145,10 @@ a:focus {
     height: 80px;
 }
 
+.navbar-brand-img {
+    height: 60px;
+}
+
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: .75rem;
     padding-left: .75rem;
@@ -190,4 +199,8 @@ a:focus {
     margin: 100px 0;
     background: rgb(251,179,22);
     background: linear-gradient(180deg, rgba(251,179,22,1) 35%, rgba(255,255,255,1) 85%);
+}
+
+.footer-area {
+    background-color: #221E1F;
 }
