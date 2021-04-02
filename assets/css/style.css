@@ -17,6 +17,10 @@ body {
     color: #FBB316 !important;
 }
 
+.secondary-color {
+    color: #221E1F !important;
+}
+
 h2,
 h3,
 h4,
@@ -184,5 +188,6 @@ a:focus {
 
 .details-area {
     margin: 100px 0;
-    background-color: #FBB316;
+    background: rgb(251,179,22);
+    background: linear-gradient(180deg, rgba(251,179,22,1) 45%, rgba(255,255,255,1) 100%);
 }
